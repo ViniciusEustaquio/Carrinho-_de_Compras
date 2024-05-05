@@ -1,0 +1,26 @@
+.form_contanier {
+    max-width: 700px;
+    display: flex;
+
+}
+
+
+.input_search {
+    width: 400px;
+    flex-grow: 1;
+    padding: 15px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.button_search{
+    flex-grow: 1;
+    padding: 0 5px 0 8px;
+    border: none;
+    background-color: azure;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+
